@@ -1,0 +1,5 @@
+Android Studio
+Visual Studio
+Pycharm
+Anaconda
+SQL Server 2012
